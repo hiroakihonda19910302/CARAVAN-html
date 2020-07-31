@@ -13,8 +13,8 @@ a {
 	display: block;
 	clear: both;
 }
-header, nav, h2, main-visual, footer {
-	font-family: Chalkduster, "Bradly Hand", Courier, "Segoe Print", sans-serif;
+header, nav, h2, .main-visual, footer {
+	font-family: Chalkduster, "Bradley Hand", Courier, "Segoe Print", sans-serif;
 }
 
 header {
